@@ -17,7 +17,8 @@ Here is another test version of export.lua. All new features:
 - Sequence comments -> marker support (buggy, actually didn’t find a DAW supporting it at import)
 - Actual midi channel used now
 - Instr.-/midi-/plugin-transpose support
-- You can copy the automation from the imported MIDI CC lane to the correct VSTi’s automation lane then. Try to end all notes with note-off somewhere at least. You also can use a following muted slot.
+
+You can copy the automation from the imported MIDI CC lane to the correct VSTi’s automation lane then. Try to end all notes with note-off somewhere at least. You also can use a following muted slot.
 
 Keep in mind the following limitations:
 
