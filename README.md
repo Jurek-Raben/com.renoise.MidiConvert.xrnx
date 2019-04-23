@@ -1,5 +1,5 @@
 # com.renoise.MidiConvert.xrnx
-Extended midi export for R3.1.1
+Extended midi export for ConnerBW's midiconvert tool for R3.1.1. 
 
 Here is another test version of export.lua. All new features:
 
